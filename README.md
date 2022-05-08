@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Hidayat Arghandabi
 
-## 👩‍💻  I am a senior software enginer.
+## 💻  I am a senior software enginer.
 
 
 - ⚡ I love Programming, and Developing Great Software
