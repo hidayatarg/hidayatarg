@@ -4,7 +4,7 @@
 ## 💻  I am a senior software enginer.
 
 
-- ⚡ I love Programming, and Developing Great Software
+- ⚡ I love Programming, and Developing Great Softwares
 - 🌱 I’m addicted to learning and growing every single day
 - 📫 How to reach me  
 
