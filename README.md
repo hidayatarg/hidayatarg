@@ -40,6 +40,7 @@
 ![image](https://img.icons8.com/color/48/postgreesql.png)
 ![image](https://img.icons8.com/color/48/mongodb.png)
 ![image](https://img.icons8.com/color/48/redis.png)
+![image](https://img.icons8.com/color/48/oracle-logo.png)
 ![image](https://img.icons8.com/color/48/amazon-s3.png)
 
 
