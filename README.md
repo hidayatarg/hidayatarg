@@ -12,7 +12,7 @@
 ### About me
 - ⚡ I love Programming, and Developing Great Softwares
 - 🌱 I’m addicted to learning and growing every single day
-- 📫 Reach me by click the following:
+- 📫 Reach me by:
     
     [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hidayatarg/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hidayatarg@gmail.com) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hidayatarg/) 
 
