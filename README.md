@@ -1,21 +1,24 @@
 
 # Hi 👋, I'm Hidayat Arghandabi
 
-## 💻  I am a senior software enginer.
+## For good projects you are at **Right Place !!!**
 
+### 💻  I am a senior software enginer with 8 years of experince. 
+### 💼 I have worked with many clients in the United States 🇺🇸,  Europe 🇪🇺, and Turkey. 
+### 👨‍💻 I have experience in C#, C, C++, JavaScript, ReactJS, AngularJS, NodeJS, Python, Java and Golang. 
+### 👨‍🏫 I hold a master's degree in computer engineering. 
 
+#
+### About me
 - ⚡ I love Programming, and Developing Great Softwares
 - 🌱 I’m addicted to learning and growing every single day
-- 📫 How to reach me  
+- 📫 Reach me by click the following:
+    
+    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hidayatarg/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hidayatarg@gmail.com) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hidayatarg/) 
 
-    - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hidayatarg/)   
-    -  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hidayatarg/)      
-    -  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hidayatarg@gmail.com)
+#
 
-
-For good projects you are at **Right Place !!!**
-
-**🧰 Toolbox & Frameworks**
+### 🧰 Toolbox & Frameworks
 
 ![image](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 ![image](https://img.icons8.com/color/48/000000/net-framework.png)
@@ -26,16 +29,26 @@ For good projects you are at **Right Place !!!**
 ![image](https://img.icons8.com/color/48/000000/javascript.png)
 ![image](https://img.icons8.com/color/48/000000/typescript.png)
 ![image](https://img.icons8.com/color/48/000000/python.png)
+![image](https://img.icons8.com/color/48/c-programming.png)
+![image](https://img.icons8.com/color/48/c-plus-plus-logo.png)
+![image](https://img.icons8.com/color/48/amazon-web-services.png)
 
+#
+### 🗄️ Data Storages
 
-
+![image](https://img.icons8.com/color/48/microsoft-sql-server.png)
+![image](https://img.icons8.com/color/48/postgreesql.png)
+![image](https://img.icons8.com/color/48/mongodb.png)
+![image](https://img.icons8.com/color/48/redis.png)
+![image](https://img.icons8.com/color/48/amazon-s3.png)
 
 
 ## 📈 Github's Stats
 
-From 15/03/2022
+From 05/03/2023
 
 <!-- ![](https://komarev.com/ghpvc/?username=hidayatarg) -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidayatarg"/> -->
 
 ![Hidayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidayatarg&show_icons=true&theme=radical)  
 
