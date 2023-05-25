@@ -19,7 +19,7 @@
 #
 
 ### 🧰 Toolbox & Frameworks
-
+![image](https://img.icons8.com/color/48/awslambda.png)
 ![image](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 ![image](https://img.icons8.com/color/48/000000/net-framework.png)
 ![image](https://img.icons8.com/color/50/0000/nodejs.png)
