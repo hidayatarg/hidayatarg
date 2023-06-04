@@ -8,6 +8,8 @@
 ### 👨‍💻 I have experience in C#, C, C++, JavaScript, ReactJS, AngularJS, NodeJS, Python, Java and Golang. 
 ### 👨‍🏫 I hold a master's degree in computer engineering.
 
+## Reach me for Contracts and Projects :)
+
 #
 ### About me
 - ⚡ I love Programming, and Developing Great Softwares
