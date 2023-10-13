@@ -3,22 +3,15 @@
 
 ## For good projects you are at **Right Place !!!**
 
-### 💻 I am a senior full-stack software enginer with 8 years of experince. 
-### 💼 I have worked with many clients in the United States, Germany, Portugal, and Turkey. 
-### 👨‍💻 I have experience in C#, C, C++, JavaScript, ReactJS, AngularJS, NodeJS, Python, Java and Golang. 
-### 👨‍🏫 I hold a master's degree in computer engineering.
+💻 I am a senior full-stack software enginer with 8 years of experince. 💼 I have worked with many clients in the United States, Germany, Portugal, and Turkey. 👨‍💻 I have experience in C#, C, C++, JavaScript, ReactJS, AngularJS, NodeJS, Python, Java and Golang. 👨‍🏫 I hold a master's degree in computer engineering.
 
-## Reach me for Contracts and Projects :)
-
-#
-### About me
+### Reach me for Contracts
 - ⚡ I love Programming, and Developing Great Softwares
 - 🌱 I’m addicted to learning and growing every single day
 - 📫 Reach me by:
     
     [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hidayatarg/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hidayatarg@gmail.com) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hidayatarg/) 
 
-#
 
 ### 🧰 Toolbox & Frameworks
 ![image](https://img.icons8.com/color/48/awslambda.png)
@@ -35,7 +28,7 @@
 ![image](https://img.icons8.com/color/48/c-plus-plus-logo.png)
 ![image](https://img.icons8.com/color/48/amazon-web-services.png)
 
-#
+
 ### 🗄️ Data Storages
 
 ![image](https://img.icons8.com/color/48/microsoft-sql-server.png)
@@ -45,7 +38,7 @@
 ![image](https://img.icons8.com/color/48/oracle-logo.png)
 ![image](https://img.icons8.com/color/48/amazon-s3.png)
 
-
+<!--
 ## 📈 Github's Stats
 
 From 05/03/2023
@@ -53,21 +46,12 @@ From 05/03/2023
 <!-- ![](https://komarev.com/ghpvc/?username=hidayatarg) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidayatarg"/> -->
 
-![Hidayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidayatarg&show_icons=true&theme=radical)  
+<!-- ![Hidayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidayatarg&show_icons=true&theme=radical)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidayatarg&theme=radical&layout=compact)](https://github.com/hidayatarg/github-readme-stats)
 
+-->
 
-<!-- ## 🧰 Toolbox & Frameworks
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-
-
-
-<!--
 **memudualimatou/memudualimatou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
