@@ -6,13 +6,8 @@
 💼 Worked with multiple clients from the United States, Germany, Portugal, and Turkey. 
 👨‍🏫 Master's degree in computer engineering with a concentration on Algorithms.
 👨‍💻 Experience in C#, C, C++, JavaScript, ReactJS, AngularJS, NodeJS, Python, Java and Golang Programming Languages. 
-
-### Reach me for Contracts
-- ⚡ I love Programming and Developing Great Software
-- 🌱 I’m addicted to learning and growing every single day
-- 📫 Reach me by:
     
-    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hidayatarg/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hidayatarg@gmail.com) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hidayatarg/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hidayatarg/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hidayatarg@gmail.com) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hidayatarg/) 
 
 
 ### 🧰 Programming Languages & Frameworks
