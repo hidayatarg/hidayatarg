@@ -27,7 +27,7 @@ Skills
 ![image](https://img.icons8.com/color/48/awslambda.png)
 ![image](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 ![image](https://img.icons8.com/color/48/000000/net-framework.png)
-![image](https://img.icons8.com/color/50/0000/nodejs.png)
+v
 ![image](https://img.icons8.com/officel/50/000000/react.png)
 ![image](https://img.icons8.com/color/48/000000/angularjs.png)
 ![image](https://img.icons8.com/color/48/000000/golang.png)
@@ -48,6 +48,8 @@ Skills
 ![image](https://img.icons8.com/color/48/oracle-logo.png)
 ![image](https://img.icons8.com/color/48/amazon-s3.png)
 
-Projects
+Good Projects
 ========
 [Asp.net MicroService E-commerce](https://github.com/hidayatarg/AspnetMicroservices) ![image](https://img.icons8.com/color/30/000000/c-sharp-logo.png) ![image](https://img.icons8.com/color/30/microsoft-sql-server.png) ![image](https://img.icons8.com/color/30/mongodb.png) ![image](https://img.icons8.com/color/30/postgreesql.png) ![image](https://img.icons8.com/color/30/redis.png)
+
+[Generic BlockChain](https://github.com/hidayatarg/Typescript-Generic-BlockChain) ![image](https://img.icons8.com/color/30/000000/typescript.png) ![image](https://img.icons8.com/color/45/0000/nodejs.png) ![image](https://img.icons8.com/color/30/000000/blockchain.png)
