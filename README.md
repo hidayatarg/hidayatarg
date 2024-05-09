@@ -1,5 +1,3 @@
-#### For good projects you are at **Right Place !!!**
-
 # Hi 👋, I'm Hidayat Arghandabi
 
 💻 Senior full-stack software engineer with 8+ years of experience. 
