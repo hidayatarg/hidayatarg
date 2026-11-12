@@ -14,7 +14,7 @@ I'm a **Senior Software Engineer with 9+ years of experience** designing scalabl
 
 I specialize in **C# / ASP.NET Core, Go, TypeScript / Node.js, Python, and AWS**, with a focus on **distributed systems, microservices, event-driven architecture, system design, and cloud-native applications**. My banking and digital payments experience covers settlements, fund transfers, refunds, reversals, reconciliation, and high-volume asynchronous transaction and event processing.
 
-At **Plan A Technologies**, a US-focused software consultancy, I delivered backend, frontend, cloud, and integration solutions for enterprise clients. I also held a concurrent resource-management role supporting **nine software engineers**.
+Currently, I delivere backend, frontend, cloud, and integration solutions for enterprise clients remotely in USA and Europe.
 
 I'm now putting my software engineering experience to work in **AI engineering**: building RAG systems, working with LLMs and MCP, and exploring structured multi-agent development workflows with strong testing and human review.
 
